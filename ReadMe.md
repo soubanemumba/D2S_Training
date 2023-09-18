@@ -1,4 +1,4 @@
 ##  About Repository
 
 
-The folder contains the tasks and their solutions during my EMUMBA training for the D2S Project inside the company. The folder contains the tasks related to linux-bash programming and the python programming tasks, in order to get familiarize with the programming as well as the relevancy with the project.
+This repository contains the tasks and their solutions from my EMUMBA training for the D2S Project within the company. The folder contains tasks related to Linux Bash programming and Python programming. These tasks are designed to help me become familiar with programming and understand its relevance to the project.
